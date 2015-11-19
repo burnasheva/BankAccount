@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="Cp1252"?>
+<?xml version="1.0" encoding="windows-1252"?>
 <pmd-cpd>
    <duplication lines="19" tokens="123">
       <file line="9234" path="W:\fx_trunk\NETB\code\fp\texts.c"/>
