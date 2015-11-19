@@ -1,0 +1,1018 @@
+<?xml version="1.0" encoding="Cp1252"?>
+<pmd-cpd>
+   <duplication lines="19" tokens="123">
+      <file line="9234" path="W:\fx_trunk\NETB\code\fp\texts.c"/>
+      <file line="9299" path="W:\fx_trunk\NETB\code\fp\texts.c"/>
+      <codefragment><![CDATA[  __TAG__(TXT_LC_VERSION_AND_DATE),
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* EN */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* FI */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* SE */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* NO */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* DK */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* FL */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* FR */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* ES */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* EST */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* LAT */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* LIT */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* RUS */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* IT */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* CZE */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* POL */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* PRT */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* TUR */
+  __END__(TXT_LC_VERSION_AND_DATE),]]></codefragment>
+   </duplication>
+   <duplication lines="19" tokens="123">
+      <file line="14556" path="W:\fx_trunk\NETB\code\fp\texts.c"/>
+      <file line="14592" path="W:\fx_trunk\NETB\code\fp\texts.c"/>
+      <codefragment><![CDATA[  __TAG__(TXT_SUBMENU_TITLE),
+  SIZE14b "%s" _RIGHT SIZE14 NN_NN    __translated,    /* EN */
+  SIZE14b "%s" _RIGHT SIZE14 NN_NN    __translated,    /* FI */
+  SIZE14b "%s" _RIGHT SIZE14 NN_NN    __translated,    /* SE */
+  SIZE14b "%s" _RIGHT SIZE14 NN_NN    __translated,    /* NO */
+  SIZE14b "%s" _RIGHT SIZE14 NN_NN    __translated,    /* DK */
+  SIZE14b "%s" _RIGHT SIZE14 NN_NN    __translated,    /* FL */
+  SIZE14b "%s" _RIGHT SIZE14 NN_NN    __translated,    /* FR */
+  SIZE14b "%s" _RIGHT SIZE14 NN_NN    __translated,    /* ES */
+  SIZE14b "%s" _RIGHT SIZE14 NN_NN    __translated,    /* EST */
+  SIZE14b "%s" _RIGHT SIZE14 NN_NN    __translated,    /* LAT */
+  SIZE14b "%s" _RIGHT SIZE14 NN_NN    __translated,    /* LIT */
+  SIZE12b "%s" _RIGHT SIZE12 NN_NN    __translated,    /* RUS */
+  SIZE14b "%s" _RIGHT SIZE14 NN_NN    __translated,    /* IT */
+  SIZE14b "%s" _RIGHT SIZE14 NN_NN    __translated,    /* CZE */
+  SIZE14b "%s" _RIGHT SIZE14 NN_NN    __translated,    /* POL */
+  SIZE14b "%s" _RIGHT SIZE14 NN_NN    __translated,    /* PRT */
+  SIZE14b "%s" _RIGHT SIZE14 NN_NN    __translated,    /* TUR */
+  __END__(TXT_SUBMENU_TITLE),]]></codefragment>
+   </duplication>
+   <duplication lines="17" tokens="113">
+      <file line="9234" path="W:\fx_trunk\NETB\code\fp\texts.c"/>
+      <file line="9300" path="W:\fx_trunk\NETB\code\fp\texts.c"/>
+      <codefragment><![CDATA[  __TAG__(TXT_LC_VERSION_AND_DATE),
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* EN */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* FI */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* SE */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* NO */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* DK */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* FL */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* FR */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* ES */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* EST */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* LAT */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* LIT */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* RUS */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* IT */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* CZE */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* POL */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* PRT */]]></codefragment>
+   </duplication>
+   <duplication lines="17" tokens="113">
+      <file line="9235" path="W:\fx_trunk\NETB\code\fp\texts.c"/>
+      <file line="9299" path="W:\fx_trunk\NETB\code\fp\texts.c"/>
+      <codefragment><![CDATA[  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* EN */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* FI */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* SE */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* NO */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* DK */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* FL */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* FR */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* ES */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* EST */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* LAT */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* LIT */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* RUS */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* IT */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* CZE */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* POL */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* PRT */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* TUR */]]></codefragment>
+   </duplication>
+   <duplication lines="20" tokens="112">
+      <file line="195" path="W:\fx_trunk\NETB\MCNET2\code\target\real\sw_timer.c"/>
+      <file line="251" path="W:\fx_trunk\NETB\MCNET2\code\target\real\sw_timer.c"/>
+      <codefragment><![CDATA[      if (TimTab[i] == 0)     /* Should be now -> do next */
+        next = TimTab[i] = 1;
+      else if (TimTab[i] <= next)/* Find the next timeout    */
+        next = TimTab[i];
+      else if (next == 0)      /* To find first candidate  */
+      next = TimTab[i];
+    }
+  }
+
+  next = 0xFFFF-next;
+  countupstart = next;
+  if (next < 0xFFFF)             /* active timers left */
+  {
+    TPU.TSTR.BYTE &= ~CST4; /* Timer4 is stopped. */ 
+    TPU4.TCNT = next; 
+    TPU4.TSR.BYTE &= ~(TCFV|TGFB|TGFA);/* Clr overflow etc. flag. */
+    TPU.TSTR.BYTE |= CST4;  /* Timer4 is start. */ 
+  }
+  else
+    tmr_StopClear();]]></codefragment>
+   </duplication>
+   <duplication lines="16" tokens="106">
+      <file line="9234" path="W:\fx_trunk\NETB\code\fp\texts.c"/>
+      <file line="9301" path="W:\fx_trunk\NETB\code\fp\texts.c"/>
+      <codefragment><![CDATA[  __TAG__(TXT_LC_VERSION_AND_DATE),
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* EN */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* FI */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* SE */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* NO */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* DK */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* FL */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* FR */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* ES */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* EST */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* LAT */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* LIT */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* RUS */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* IT */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* CZE */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* POL */]]></codefragment>
+   </duplication>
+   <duplication lines="16" tokens="106">
+      <file line="9236" path="W:\fx_trunk\NETB\code\fp\texts.c"/>
+      <file line="9299" path="W:\fx_trunk\NETB\code\fp\texts.c"/>
+      <codefragment><![CDATA[  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* FI */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* SE */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* NO */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* DK */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* FL */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* FR */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* ES */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* EST */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* LAT */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* LIT */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* RUS */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* IT */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* CZE */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* POL */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* PRT */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* TUR */]]></codefragment>
+   </duplication>
+   <duplication lines="11" tokens="106">
+      <file line="243" path="W:\fx_trunk\NETB\code\fxcom\dcom_storage.c"/>
+      <file line="266" path="W:\fx_trunk\NETB\code\fxcom\dcom_storage.c"/>
+      <codefragment><![CDATA[  dcom_InitQuotaPool (quota_pool, init->slotsTotal-1);
+  dcom_InitQuotaType (&quota_types[QUOTA_TYPE_INCTRL],       quota_pool);
+  dcom_InitQuotaType (&quota_types[QUOTA_TYPE_OUTCTRL],      quota_pool);
+  dcom_InitQuotaType (&quota_types[QUOTA_TYPE_OUTACK],       quota_pool);
+  dcom_InitQuotaType (&quota_types[QUOTA_TYPE_INLINKGUARD],  quota_pool);
+  dcom_InitQuotaType (&quota_types[QUOTA_TYPE_OUTLINKGUARD], quota_pool);
+  dcom_InitQuotaType (&quota_types[QUOTA_TYPE_OUTSIMPLE],    quota_pool);
+  dcom_InitQuotaType (&quota_types[QUOTA_TYPE_INDATA],       quota_pool);
+  dcom_InitQuotaType (&quota_types[QUOTA_TYPE_OUTDATA],      quota_pool);
+  dcom_InitQuotaType (&quota_types[QUOTA_TYPE_INREORDER],    quota_pool);
+  dcom_SetMinQuotaLimit (&quota_types[QUOTA_TYPE_INCTRL],       init->ctrlImin);]]></codefragment>
+   </duplication>
+   <duplication lines="23" tokens="103">
+      <file line="692" path="W:\fx_trunk\NETB\code\fxcom\dcom_chanctrl.c"/>
+      <file line="806" path="W:\fx_trunk\NETB\code\fxcom\dcom_chanctrl.c"/>
+      <codefragment><![CDATA[          dcom_SendAck (dcom, c->got_slot);
+          dcom_AcceptItem (c, c->got_slot);
+          dcom_DelItem (dcom, c->got_slot);
+          break;
+        
+        case CTRL_DATA:
+          dcom_SendAck (dcom, c->got_slot);
+          dcom_AcceptItem (c, c->got_slot);
+          dcom_FwdData (dcom, c, c->got_slot);
+          break;
+        
+        case CTRL_ACK:
+          dcom_GotAck  (dcom, c, c->got_slot);
+          dcom_AcceptItem (c, c->got_slot);
+          dcom_DelItem (dcom, c->got_slot);
+          break;
+          
+        case CTRL_LINK_GUARD:
+        case CTRL_DEFY_OPEN:      /* how come? */
+        case CTRL_ACK_CLOSED:     /* how come? */
+        default:
+#ifdef FXCOM_MONITOR_BREAKING
+          printf ("Fxcom/%ld/dcom_HandleOpen, broke, got nonsense %s, addr=%d\n", gos_InqTime(), CTRLTXT(c->got_type), c->addr);]]></codefragment>
+   </duplication>
+   <duplication lines="9" tokens="101">
+      <file line="516" path="W:\fx_trunk\NETB\code\fxcom\dcom_space.c"/>
+      <file line="546" path="W:\fx_trunk\NETB\code\fxcom\dcom_space.c"/>
+      <codefragment><![CDATA[    if (test_slots[x].data) {
+      data_header = GetTestDataHeaderByData (test_slots[x].data);
+      size = dcom_GetDataSize (data_header) - sizeof(struct TestDataHeader);
+      assert (data_header->owner == &test_slots[x]);
+      assert (size == test_slots[x].size);
+      for (j=0; j<size; j++) {
+        assert (test_slots[x].data[j] == (char)(x+j+0x77));
+      }
+      dcom_FreeBlock (data_header);]]></codefragment>
+   </duplication>
+   <duplication lines="15" tokens="99">
+      <file line="9234" path="W:\fx_trunk\NETB\code\fp\texts.c"/>
+      <file line="9302" path="W:\fx_trunk\NETB\code\fp\texts.c"/>
+      <codefragment><![CDATA[  __TAG__(TXT_LC_VERSION_AND_DATE),
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* EN */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* FI */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* SE */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* NO */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* DK */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* FL */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* FR */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* ES */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* EST */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* LAT */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* LIT */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* RUS */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* IT */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* CZE */]]></codefragment>
+   </duplication>
+   <duplication lines="15" tokens="99">
+      <file line="9237" path="W:\fx_trunk\NETB\code\fp\texts.c"/>
+      <file line="9299" path="W:\fx_trunk\NETB\code\fp\texts.c"/>
+      <codefragment><![CDATA[  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* SE */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* NO */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* DK */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* FL */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* FR */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* ES */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* EST */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* LAT */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* LIT */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* RUS */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* IT */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* CZE */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* POL */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* PRT */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* TUR */]]></codefragment>
+   </duplication>
+   <duplication lines="17" tokens="93">
+      <file line="32" path="W:\fx_trunk\NETB\code\graphics_for_linux.c"/>
+      <file line="16" path="W:\fx_trunk\NETB\MCNET2\code\target\graphics\graphics.c"/>
+      <codefragment><![CDATA[static pixel_t *framebuffer = NULL;
+
+static const RGB_data lcd_look_up_table[PALETTE_SIZE] =
+{
+  { 0x00, 0x00, 0x00 }, //BLACK, 5:6:5 bits
+  { 0x1F, 0x00, 0x00 }, //RED
+  { 0x00, 0x3F, 0x00 }, //Green
+  { 0x1F, 0x3F, 0x00 }, //Yellow
+  { 0x00, 0x00, 0x1F }, //Blue
+  { 0x1F, 0x00, 0x1F }, //Magenta
+  { 0x00, 0x3F, 0x1F }, //Cyan
+  { 0x1F, 0x3F, 0x1F }, //White
+  { 0x00, 0x25, 0x06 }, //SE_GREEN = SE spruce green  0 149 48 trunc to 5,6,5 bits 
+  { 0x13, 0x28, 0x14 }, //SE_GREY =  159 160 164 trunc to 5,6,5 bits 
+};
+
+static pixel_t currentForegroundColor_rgb;]]></codefragment>
+   </duplication>
+   <duplication lines="11" tokens="93">
+      <file line="116" path="W:\fx_trunk\NETB\code\target\inh8.h"/>
+      <file line="222" path="W:\fx_trunk\NETB\code\target\inh8.h"/>
+      <codefragment><![CDATA[    if (count & 4) {
+      asm("rotr.w #2, %0":"=r"(data):"0"(data):"cc");
+      asm("rotr.w #2, %0":"=r"(data):"0"(data):"cc");
+    }
+    if (count & 2) {
+      asm("rotr.w #2, %0":"=r"(data):"0"(data):"cc");
+    }
+    if (count & 1) {
+      asm("rotr.w %0":"=r"(data):"0"(data):"cc");
+    }
+  }]]></codefragment>
+   </duplication>
+   <duplication lines="11" tokens="93">
+      <file line="128" path="W:\fx_trunk\NETB\code\target\inh8.h"/>
+      <file line="210" path="W:\fx_trunk\NETB\code\target\inh8.h"/>
+      <codefragment><![CDATA[    if (count & 4) {
+      asm("rotl.w #2, %0":"=r"(data):"0"(data):"cc");
+      asm("rotl.w #2, %0":"=r"(data):"0"(data):"cc");
+    }
+    if (count & 2) {
+      asm("rotl.w #2, %0":"=r"(data):"0"(data):"cc");
+    }
+    if (count & 1) {
+      asm("rotl.w %0":"=r"(data):"0"(data):"cc");
+    }
+  }]]></codefragment>
+   </duplication>
+   <duplication lines="14" tokens="92">
+      <file line="9234" path="W:\fx_trunk\NETB\code\fp\texts.c"/>
+      <file line="9303" path="W:\fx_trunk\NETB\code\fp\texts.c"/>
+      <codefragment><![CDATA[  __TAG__(TXT_LC_VERSION_AND_DATE),
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* EN */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* FI */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* SE */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* NO */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* DK */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* FL */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* FR */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* ES */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* EST */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* LAT */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* LIT */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* RUS */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* IT */]]></codefragment>
+   </duplication>
+   <duplication lines="14" tokens="92">
+      <file line="9238" path="W:\fx_trunk\NETB\code\fp\texts.c"/>
+      <file line="9299" path="W:\fx_trunk\NETB\code\fp\texts.c"/>
+      <codefragment><![CDATA[  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* NO */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* DK */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* FL */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* FR */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* ES */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* EST */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* LAT */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* LIT */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* RUS */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* IT */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* CZE */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* POL */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* PRT */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* TUR */]]></codefragment>
+   </duplication>
+   <duplication lines="18" tokens="91">
+      <file line="599" path="W:\fx_trunk\NETB\code\rtxcres\srccommon\rtxcbug.c"/>
+      <file line="2511" path="W:\fx_trunk\NETB\code\rtxcres\srccommon\rtxcbug.c"/>
+      <codefragment><![CDATA[#endif
+
+  outputs("\n** Task Snapshot **\n");
+  outputs(  "  #   Name          Priority  State\n");
+          /* 123 12345678  123     12345678 */
+#ifdef DYNAMIC_TASKS
+  for (i = 1, l = 1; i <= ntasks + dntasks; i++, l++)
+#else
+  for (i = 1, l = 1; i <= ntasks; i++, l++)
+#endif
+  {
+    if (l > SCREENSIZE - 4) /* "more" logic */
+    {
+      l = 1;
+#ifdef RTXCBUG_MORE
+      outputs("-- More --");
+      inputs(string);
+      if ( (string[0] == 'X') || (string[0] == 'x') )]]></codefragment>
+   </duplication>
+   <duplication lines="7" tokens="90">
+      <file line="137" path="W:\fx_trunk\NETB\code\utils\md5.c"/>
+      <file line="172" path="W:\fx_trunk\NETB\code\utils\md5.c"/>
+      <codefragment><![CDATA[  /* compute number of bytes mod 64 */
+  mdi = (int)((mdContext->i[0] >> 3) & 0x3F);
+
+  /* update number of bits */
+  if ((mdContext->i[0] + ((u32_t)inLen << 3)) < mdContext->i[0]) {
+    mdContext->i[1]++;
+  }]]></codefragment>
+   </duplication>
+   <duplication lines="9" tokens="90">
+      <file line="381"
+            path="W:\fx_trunk\NETB\MCNET2\code\target\ethernet\driver\enc28j60\enc28j60.c"/>
+      <file line="276"
+            path="W:\fx_trunk\NETB\MCNET2\code\target\ethernet\driver\ks8851\ks8851.c"/>
+      <codefragment><![CDATA[  pHeader = (MCP_PREAMBLE*) &me.ethernetFrameIn[0];
+
+  memcpy(&(me.currentPackageInfo.macAddress.v[0]), &(pHeader->SourceMACAddr.v[0]), 6);
+ 
+  me.currentPackageInfo.type = MAC_UNKNOWN;
+  
+  if( (pHeader->Type[0] == 0x08u) && 
+    ((pHeader->Type[1] == MAC_IP) || (pHeader->Type[1] == MAC_ARP)) )
+    me.currentPackageInfo.type = pHeader->Type[1];]]></codefragment>
+   </duplication>
+   <duplication lines="10" tokens="90">
+      <file line="319" path="W:\fx_trunk\NETB\MCNET2\code\target\real\memory.c"/>
+      <file line="342" path="W:\fx_trunk\NETB\MCNET2\code\target\real\memory.c"/>
+      <codefragment><![CDATA[      for (i=ram_size/4/16; i>0; i--) {
+        fail |= read32(p2++) ^ on;
+        fail |= read32(p2++) ^ on;
+        fail |= read32(p2++) ^ on;
+        fail |= read32(p2++) ^ on;
+        fail |= read32(p2++) ^ on;
+        fail |= read32(p2++) ^ on;
+        fail |= read32(p2++) ^ on;
+        fail |= read32(p2++) ^ on;
+        fail |= read32(p2++) ^ off;]]></codefragment>
+   </duplication>
+   <duplication lines="27" tokens="89">
+      <file line="215" path="W:\fx_trunk\NETB\MCNET2\code\target\uart\fxcom_hw.c"/>
+      <file line="255" path="W:\fx_trunk\NETB\MCNET2\code\target\uart\fxcom_hw.c"/>
+      <codefragment><![CDATA[  if (mp->txc == EOF) {
+    unsigned char stat = channel_GetStatus(mp->port);
+#ifdef FXCOM_TESTING_TIMING_DETAILS
+    printf ("Fxcom%d    %d txi: --\n", mp->line_idx, esim_GetSimulationTime());
+#endif
+    /*
+     * If the interrupt service has been delayed so much that the
+     * transmitter is already empty (including shift register)
+     * then disable the transmitter and turn-around immediatelly.
+     * 
+     * Otherwise rely mainly on the automatic turn-around of the
+     * UART, but use the transmit end timeout to cover the rare
+     * possibility that the automatic fails (if TSR gets empty
+     * after the emptiness check but before the disablement of
+     * transmitter).
+     */
+    if (stat & QUART_LSR_TRANSMIT_SHIFT_REG_EMPTY_FLAG) {
+      channel_DisableTransmitterInterrupt (mp->port);
+      channel_SetPortDirectionIn (mp->port);
+      if (dcom_MacTransmitted (mp->parent))
+        gos_ISRsignal(FXCMOUTS);
+    }
+    else {
+      channel_DisableTransmitterInterrupt (mp->port);
+      mp->transmit_ending = TRUE;
+      tmr_Timeout_us (mp->sw_transmit_end_timer, mp->byte_time_us); ]]></codefragment>
+   </duplication>
+   <duplication lines="22" tokens="88">
+      <file line="38" path="W:\fx_trunk\NETB\code\config\config_addr_storage.h"/>
+      <file line="63" path="W:\fx_trunk\NETB\code\config\config_addr_storage.h"/>
+      <codefragment><![CDATA[      p01,p02,p03,p04,p05,p06,p07,p08,p09,\
+  p10,p11,p12,p13,p14,p15,p16,p17,p18,p19,\
+  p20,p21,p22,p23,p24)
+
+#define CONFIG_ADDRDEF_BLOCK_V3_INIT(\
+      p01,p02,p03,p04,p05,p06,p07,p08,p09,\
+  p10,p11,p12,p13,p14,p15,p16,p17,p18,p19,\
+  p20,p21,p22,p23,p24)\
+{\
+  {\
+    {\
+      CONFIG_INIT_BASE_HEADER(sizeof(struct config_addrdef_block_v3_t)),\
+      sizeof (struct config_addrdef_v3_t),\
+      {0},\
+    },\
+    {\
+      CONFIG_WINFX_ADDRDEF_TAG1_FOR_VERSION,\
+      CONFIG_WINFX_ADDRDEF_DATA_V3,\
+      0,0,\
+      p01,p02,p03,p04,p05,p06,p07,p08,p09,p10,\
+      p11,p12,p13,p14,p15,p16,p17,p18,p19,p20,\
+      p21,p22,p23,p24,0,0,0,0,0xFF,0xFF,\]]></codefragment>
+   </duplication>
+   <duplication lines="9" tokens="88">
+      <file line="299" path="W:\fx_trunk\NETB\MCNET2\code\target\real\memory.c"/>
+      <file line="324" path="W:\fx_trunk\NETB\MCNET2\code\target\real\memory.c"/>
+      <codefragment><![CDATA[        fail |= read32(p2++) ^ on;
+        fail |= read32(p2++) ^ on;
+        fail |= read32(p2++) ^ on;
+        fail |= read32(p2++) ^ on;
+        fail |= read32(p2++) ^ off;
+        fail |= read32(p2++) ^ off;
+        fail |= read32(p2++) ^ off;
+        fail |= read32(p2++) ^ off;
+        fail |= read32(p2++) ^ on;]]></codefragment>
+   </duplication>
+   <duplication lines="9" tokens="88">
+      <file line="320" path="W:\fx_trunk\NETB\MCNET2\code\target\real\memory.c"/>
+      <file line="344" path="W:\fx_trunk\NETB\MCNET2\code\target\real\memory.c"/>
+      <file line="345" path="W:\fx_trunk\NETB\MCNET2\code\target\real\memory.c"/>
+      <file line="346" path="W:\fx_trunk\NETB\MCNET2\code\target\real\memory.c"/>
+      <file line="347" path="W:\fx_trunk\NETB\MCNET2\code\target\real\memory.c"/>
+      <file line="348" path="W:\fx_trunk\NETB\MCNET2\code\target\real\memory.c"/>
+      <file line="349" path="W:\fx_trunk\NETB\MCNET2\code\target\real\memory.c"/>
+      <file line="350" path="W:\fx_trunk\NETB\MCNET2\code\target\real\memory.c"/>
+      <codefragment><![CDATA[        fail |= read32(p2++) ^ on;
+        fail |= read32(p2++) ^ on;
+        fail |= read32(p2++) ^ on;
+        fail |= read32(p2++) ^ on;
+        fail |= read32(p2++) ^ on;
+        fail |= read32(p2++) ^ on;
+        fail |= read32(p2++) ^ on;
+        fail |= read32(p2++) ^ on;
+        fail |= read32(p2++) ^ off;]]></codefragment>
+   </duplication>
+   <duplication lines="10" tokens="87">
+      <file line="47" path="W:\fx_trunk\NETB\code\config\defaults\config_output_defaults.c"/>
+      <file line="278"
+            path="W:\fx_trunk\NETB\code\config\defaults\config_output_defaults.c"/>
+      <codefragment><![CDATA[const struct config_output_def_t default_ioc_output1 =
+{
+  CONFIG_IODEF_BLOCK_INIT(
+  1, IOC_ID_OUTPUT1, IOC_FT_FIREALARM_OUTPUT, 0x00, 
+  0, 0,
+  1,0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0, 
+  "")
+};
+
+const struct config_output_def_t default_ioc_output2 =]]></codefragment>
+   </duplication>
+   <duplication lines="11" tokens="87">
+      <file line="160" path="W:\fx_trunk\NETB\code\linuxTest\queueTest.c"/>
+      <file line="177" path="W:\fx_trunk\NETB\code\linuxTest\queueTest.c"/>
+      <codefragment><![CDATA[void test_QueueNotEmptySignal_StaysSignaledIfItemsStillInQueue(void)
+{
+  int queue[512];
+  int value = 1;
+  gos_DefQueue(0, sizeof(int), 512, &queue, 0);
+  gos_DefQSema(0, QNE_SIGNAL, QNE);
+  assert(gos_InqSema(QNE_SIGNAL) == SEMA_PENDING);
+  gos_Enqueue(0, &value);
+  assert(gos_InqSema(QNE_SIGNAL) == SEMA_DONE);
+  gos_Enqueue(0, &value);
+  assert(gos_InqSema(QNE_SIGNAL) == SEMA_DONE);]]></codefragment>
+   </duplication>
+   <duplication lines="8" tokens="86">
+      <file line="489"
+            path="W:\fx_trunk\NETB\MCNET2\code\target\ethernet\driver\enc28j60\enc28j60.c"/>
+      <file line="80"
+            path="W:\fx_trunk\NETB\MCNET2\code\target\ethernet\driver\ks8851\ks8851.c"/>
+      <codefragment><![CDATA[    ENC28J60Low_EnableRX();
+    
+    me.myMacAddress.v[0] = address[0];
+    me.myMacAddress.v[1] = address[1];
+    me.myMacAddress.v[2] = address[2];
+    me.myMacAddress.v[3] = address[3];
+    me.myMacAddress.v[4] = address[4];
+    me.myMacAddress.v[5] = address[5];]]></codefragment>
+   </duplication>
+   <duplication lines="13" tokens="85">
+      <file line="9234" path="W:\fx_trunk\NETB\code\fp\texts.c"/>
+      <file line="9304" path="W:\fx_trunk\NETB\code\fp\texts.c"/>
+      <codefragment><![CDATA[  __TAG__(TXT_LC_VERSION_AND_DATE),
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* EN */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* FI */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* SE */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* NO */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* DK */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* FL */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* FR */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* ES */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* EST */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* LAT */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* LIT */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* RUS */]]></codefragment>
+   </duplication>
+   <duplication lines="13" tokens="85">
+      <file line="9239" path="W:\fx_trunk\NETB\code\fp\texts.c"/>
+      <file line="9299" path="W:\fx_trunk\NETB\code\fp\texts.c"/>
+      <codefragment><![CDATA[  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* DK */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* FL */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* FR */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* ES */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* EST */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* LAT */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* LIT */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* RUS */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* IT */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* CZE */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* POL */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* PRT */
+  "%s %1d" _CENTER FORMAT_VERSION _RIGHT FORMAT_DATE __translated,    /* TUR */]]></codefragment>
+   </duplication>
+   <duplication lines="20" tokens="85">
+      <file line="376" path="W:\fx_trunk\NETB\code\fp\views\zones_menu.c"/>
+      <file line="713" path="W:\fx_trunk\NETB\code\fp\views\zones_menu.c"/>
+      <codefragment><![CDATA[              gos_StartTimer(update_timer, 5000 / CLKTICK, 0, FPMENUVT);
+            }
+        
+            snprintf(line2, FPTXT_WIDTH + 1, text_GetText(TXT_NNN_ADDRESS_POINTS),
+                     zone_GetAmountOfAddr(z));
+            disp_DisplayText(line2);  
+
+            zones_menu_ShowDisablementSection(z);
+            break;
+
+          case OBJECT_SHOWING_AUTOMATIC_ENABLEMENT_OPTION:
+            disp_DisplayText(text_GetText (TXT_FOR_AUTOMATIC_ENABLEMENT_PRESS_MENU) ); 
+            break;
+
+          case OBJECT_SETTING_ENABLEMENT_TIME:
+            snprintf(line2, FPTXT_WIDTH + 1, 
+                     text_GetText (TXT_AUTOMATIC_DISABLEMENT_TIME),
+                     time >> 1, (time & 1 ? 5 : 0)); 
+            disp_DisplayText(line2);
+            break;]]></codefragment>
+   </duplication>
+   <duplication lines="16" tokens="84">
+      <file line="362" path="W:\fx_trunk\NETB\code\fp\views\zones_menu.c"/>
+      <file line="694" path="W:\fx_trunk\NETB\code\fp\views\zones_menu.c"/>
+      <codefragment><![CDATA[        extra = menu_get_zone_cond(z);
+        snprintf(line1, FPTXT_WIDTH + 1, text_GetText(TXT_ZONE_STATUS_ON_RIGHT),
+                  zone_GetNumber(z),
+                  extra);
+        disp_DisplayText (line1);
+
+        switch (state)
+        {
+          case OBJECT_SHOWING_STATE:
+            seconds = zone_GetTimedActionTimer(z, &is);
+            if (is == TRUE)
+            {
+              menu_FormatTextDisabledWithAutomaticEnablement(line1, seconds);
+              disp_DisplayText (line1);
+              gos_StartTimer(update_timer, 5000 / CLKTICK, 0, FPMENUVT);
+            }]]></codefragment>
+   </duplication>
+   <duplication lines="11" tokens="83">
+      <file line="327" path="W:\fx_trunk\NETB\MCNET2\code\target\real\memory.c"/>
+      <file line="368" path="W:\fx_trunk\NETB\MCNET2\code\target\real\memory.c"/>
+      <codefragment><![CDATA[        fail |= read32(p2++) ^ on;
+        fail |= read32(p2++) ^ off;
+        fail |= read32(p2++) ^ off;
+        fail |= read32(p2++) ^ off;
+        fail |= read32(p2++) ^ off;
+        fail |= read32(p2++) ^ off;
+        fail |= read32(p2++) ^ off;
+        fail |= read32(p2++) ^ off;
+        fail |= read32(p2++) ^ off;
+      }
+    }]]></codefragment>
+   </duplication>
+   <duplication lines="7" tokens="82">
+      <file line="39" path="W:\fx_trunk\NETB\code\config\defaults\config_output_defaults.c"/>
+      <file line="104"
+            path="W:\fx_trunk\NETB\code\config\defaults\config_output_defaults.c"/>
+      <codefragment><![CDATA[{
+  CONFIG_IODEF_BLOCK_INIT(
+  0, IOC_ID_MONOUT1, IOC_FT_FIRE_ALARM_DEVICE_OUTPUT, 0x01, 
+  0, 0,
+  1,0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0, 
+  "")
+};]]></codefragment>
+   </duplication>
+   <duplication lines="7" tokens="82">
+      <file line="41" path="W:\fx_trunk\NETB\code\config\defaults\config_output_defaults.c"/>
+      <file line="68" path="W:\fx_trunk\NETB\code\config\defaults\config_output_defaults.c"/>
+      <codefragment><![CDATA[  0, IOC_ID_MONOUT1, IOC_FT_FIRE_ALARM_DEVICE_OUTPUT, 0x01, 
+  0, 0,
+  1,0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0, 
+  "")
+};
+
+const struct config_output_def_t default_ioc_output1 =]]></codefragment>
+   </duplication>
+   <duplication lines="7" tokens="82">
+      <file line="105"
+            path="W:\fx_trunk\NETB\code\config\defaults\config_output_defaults.c"/>
+      <file line="111"
+            path="W:\fx_trunk\NETB\code\config\defaults\config_output_defaults.c"/>
+      <file line="117"
+            path="W:\fx_trunk\NETB\code\config\defaults\config_output_defaults.c"/>
+      <file line="123"
+            path="W:\fx_trunk\NETB\code\config\defaults\config_output_defaults.c"/>
+      <file line="129"
+            path="W:\fx_trunk\NETB\code\config\defaults\config_output_defaults.c"/>
+      <file line="135"
+            path="W:\fx_trunk\NETB\code\config\defaults\config_output_defaults.c"/>
+      <file line="141"
+            path="W:\fx_trunk\NETB\code\config\defaults\config_output_defaults.c"/>
+      <file line="147"
+            path="W:\fx_trunk\NETB\code\config\defaults\config_output_defaults.c"/>
+      <file line="153"
+            path="W:\fx_trunk\NETB\code\config\defaults\config_output_defaults.c"/>
+      <file line="159"
+            path="W:\fx_trunk\NETB\code\config\defaults\config_output_defaults.c"/>
+      <file line="165"
+            path="W:\fx_trunk\NETB\code\config\defaults\config_output_defaults.c"/>
+      <codefragment><![CDATA[  0, IOC_ID_MONOUT1, IOC_FT_FIRE_ALARM_DEVICE_OUTPUT, 0x01, 
+  0, 0,
+  1,0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0, 
+  "")
+  },
+  {CONFIG_IODEF_BLOCK_INIT(
+  0, IOC_ID_MONOUT2, IOC_FT_FIRE_ALARM_DEVICE_OUTPUT, 0x01, ]]></codefragment>
+   </duplication>
+   <duplication lines="7" tokens="82">
+      <file line="181"
+            path="W:\fx_trunk\NETB\code\config\defaults\config_output_defaults.c"/>
+      <file line="187"
+            path="W:\fx_trunk\NETB\code\config\defaults\config_output_defaults.c"/>
+      <codefragment><![CDATA[  0, IOC_ID_OUTPUT1, IOC_FT_FIREALARM_OUTPUT, 0x00, 
+  0, 0,
+  1,0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0, 
+  "")
+  },
+  {CONFIG_IODEF_BLOCK_INIT(
+  0, IOC_ID_OUTPUT2, IOC_FT_FIREALARM_OUTPUT, 0x00, ]]></codefragment>
+   </duplication>
+   <duplication lines="7" tokens="82">
+      <file line="193"
+            path="W:\fx_trunk\NETB\code\config\defaults\config_output_defaults.c"/>
+      <file line="199"
+            path="W:\fx_trunk\NETB\code\config\defaults\config_output_defaults.c"/>
+      <codefragment><![CDATA[  0, IOC_ID_OUTPUT3, IOC_FT_FIRE_DOOR_OUTPUT, 0x00, 
+  0, 0,
+  1,0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0, 
+  "")
+  },
+  {CONFIG_IODEF_BLOCK_INIT(
+  0, IOC_ID_OUTPUT4, IOC_FT_FIRE_DOOR_OUTPUT, 0x00, ]]></codefragment>
+   </duplication>
+   <duplication lines="7" tokens="82">
+      <file line="205"
+            path="W:\fx_trunk\NETB\code\config\defaults\config_output_defaults.c"/>
+      <file line="211"
+            path="W:\fx_trunk\NETB\code\config\defaults\config_output_defaults.c"/>
+      <codefragment><![CDATA[  0, IOC_ID_OUTPUT5, IOC_FT_PREALARM_OUTPUT, 0x00, 
+  0, 0,
+  1,0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0, 
+  "")
+  },
+  {CONFIG_IODEF_BLOCK_INIT(
+  0, IOC_ID_OUTPUT6, IOC_FT_PREALARM_OUTPUT, 0x00, ]]></codefragment>
+   </duplication>
+   <duplication lines="7" tokens="82">
+      <file line="217"
+            path="W:\fx_trunk\NETB\code\config\defaults\config_output_defaults.c"/>
+      <file line="223"
+            path="W:\fx_trunk\NETB\code\config\defaults\config_output_defaults.c"/>
+      <codefragment><![CDATA[  0, IOC_ID_OUTPUT7, IOC_FT_TECHNICAL_ALARM_OUTPUT, 0x00, 
+  0, 0,
+  1,0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0, 
+  "")
+  },
+  {CONFIG_IODEF_BLOCK_INIT(
+  0, IOC_ID_OUTPUT8, IOC_FT_TECHNICAL_ALARM_OUTPUT, 0x00, ]]></codefragment>
+   </duplication>
+   <duplication lines="7" tokens="82">
+      <file line="229"
+            path="W:\fx_trunk\NETB\code\config\defaults\config_output_defaults.c"/>
+      <file line="235"
+            path="W:\fx_trunk\NETB\code\config\defaults\config_output_defaults.c"/>
+      <codefragment><![CDATA[  0, IOC_ID_OUTPUT9, IOC_FT_FAULT_WARNING_OUTPUT, 0x00, 
+  0, 0,
+  1,0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0, 
+  "")
+  },
+  {CONFIG_IODEF_BLOCK_INIT(
+  0, IOC_ID_OUTPUT10, IOC_FT_FAULT_WARNING_OUTPUT, 0x00, ]]></codefragment>
+   </duplication>
+   <duplication lines="7" tokens="82">
+      <file line="241"
+            path="W:\fx_trunk\NETB\code\config\defaults\config_output_defaults.c"/>
+      <file line="247"
+            path="W:\fx_trunk\NETB\code\config\defaults\config_output_defaults.c"/>
+      <codefragment><![CDATA[  0, IOC_ID_OUTPUT11, IOC_FT_MAINT_WARNING_OUTPUT, 0x00, 
+  0, 0,
+  1,0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0, 
+  "")
+  },
+  {CONFIG_IODEF_BLOCK_INIT(
+  0, IOC_ID_OUTPUT12, IOC_FT_MAINT_WARNING_OUTPUT, 0x00, ]]></codefragment>
+   </duplication>
+   <duplication lines="7" tokens="82">
+      <file line="253"
+            path="W:\fx_trunk\NETB\code\config\defaults\config_output_defaults.c"/>
+      <file line="259"
+            path="W:\fx_trunk\NETB\code\config\defaults\config_output_defaults.c"/>
+      <codefragment><![CDATA[  0, IOC_ID_OUTPUT13, IOC_FT_DISABLEMENT_OUTPUT, 0x00, 
+  0, 0,
+  1,0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0, 
+  "")
+  },
+  {CONFIG_IODEF_BLOCK_INIT(
+  0, IOC_ID_OUTPUT14, IOC_FT_DISABLEMENT_OUTPUT, 0x00, ]]></codefragment>
+   </duplication>
+   <duplication lines="22" tokens="82">
+      <file line="88" path="W:\fx_trunk\NETB\code\lio\lio_outputs_disablement.c"/>
+      <file line="118" path="W:\fx_trunk\NETB\code\lio\lio_outputs_disablement.c"/>
+      <codefragment><![CDATA[bool lio_DisableAllCommonControls(unsigned char target_node_nb)
+{
+  unsigned char start_node, end_node, node_nb;
+  bool success = false;
+
+  if (WaitingForResponseForControlClass(target_node_nb, CONTROL_AGENT_ID_VIRTUAL_ALL_CONTROLS))
+    return false;
+
+  if (target_node_nb == 0 && nob_visible_node_count())
+  {
+    start_node = 1;
+    end_node = MAX_CNT_OF_VISIBLE_NODES;
+  }
+  else
+  {
+    start_node = end_node = target_node_nb;
+  }
+
+  for (node_nb = start_node; node_nb <= end_node; node_nb++)
+  {
+    if (AllowAllCommonControlsDisablementChangesForNode(node_nb))
+    {]]></codefragment>
+   </duplication>
+   <duplication lines="13" tokens="82">
+      <file line="1272" path="W:\fx_trunk\NETB\code\node\noddis.c"/>
+      <file line="897" path="W:\fx_trunk\NETB\code\node\nodio.c"/>
+      <codefragment><![CDATA[      loopDB_Lock ();
+      if (ap == NULL)
+      {
+        if (get_nod_debug_var() & 0x40)
+          printf("ext_obj_create_addr loop=%d, addr=%d \n",loop_nr,addr_nr);
+        ap = ext_obj_create_addr( p_vnob);
+        nodeaddr_SetBaseIds(ap, loop_nr, addr_nr, zone_nr, p_evt->addrclass,p_evt->target_id);
+        loopdb_AddAddress(ap); //automatically adds to loop and zone lists
+      }
+      else // update
+        nodeaddr_SetBaseIds(ap, loop_nr, addr_nr, zone_nr, p_evt->addrclass, p_evt->target_id);
+
+      nodeaddr_SetCustomerText(ap, &p_evt->cust_text[0], SIZE_CUSTOM_TEXT);]]></codefragment>
+   </duplication>
+   <duplication lines="11" tokens="81">
+      <file line="430" path="W:\fx_trunk\NETB\code\fxcom\dcom_mouth.c"/>
+      <file line="490" path="W:\fx_trunk\NETB\code\fxcom\dcom_mouth.c"/>
+      <codefragment><![CDATA[          for (i=IDX_FIRST_CC_GUARDED; i<=size+IDX_LAST_CC_GUARDED; i++) {
+            sumA = (unsigned short)(sumA + (unsigned char)trg[i]);
+            sumB = (unsigned short)(sumB + sumA);
+            sumC = (unsigned short)(sumC + sumB);
+            sumD = (unsigned short)(sumD + sumC);
+          }
+          sumA %= 509;  // largest prime < 512
+          sumB %= 509;
+          sumC %= 509;
+          sumD %= 509;
+          trg[size+IDX_CHECKSUM_C4] = (unsigned char)(sumA);]]></codefragment>
+   </duplication>
+   <duplication lines="9" tokens="81">
+      <file line="306" path="W:\fx_trunk\NETB\MCNET2\code\target\real\memory.c"/>
+      <file line="323" path="W:\fx_trunk\NETB\MCNET2\code\target\real\memory.c"/>
+      <codefragment><![CDATA[        fail |= read32(p2++) ^ off;
+        fail |= read32(p2++) ^ on;
+        fail |= read32(p2++) ^ on;
+        fail |= read32(p2++) ^ on;
+        fail |= read32(p2++) ^ on;
+        fail |= read32(p2++) ^ off;
+        fail |= read32(p2++) ^ off;
+        fail |= read32(p2++) ^ off;
+        fail |= read32(p2++) ^ off;]]></codefragment>
+   </duplication>
+   <duplication lines="9" tokens="81">
+      <file line="327" path="W:\fx_trunk\NETB\MCNET2\code\target\real\memory.c"/>
+      <file line="361" path="W:\fx_trunk\NETB\MCNET2\code\target\real\memory.c"/>
+      <file line="362" path="W:\fx_trunk\NETB\MCNET2\code\target\real\memory.c"/>
+      <file line="363" path="W:\fx_trunk\NETB\MCNET2\code\target\real\memory.c"/>
+      <file line="364" path="W:\fx_trunk\NETB\MCNET2\code\target\real\memory.c"/>
+      <file line="365" path="W:\fx_trunk\NETB\MCNET2\code\target\real\memory.c"/>
+      <file line="366" path="W:\fx_trunk\NETB\MCNET2\code\target\real\memory.c"/>
+      <file line="367" path="W:\fx_trunk\NETB\MCNET2\code\target\real\memory.c"/>
+      <codefragment><![CDATA[        fail |= read32(p2++) ^ on;
+        fail |= read32(p2++) ^ off;
+        fail |= read32(p2++) ^ off;
+        fail |= read32(p2++) ^ off;
+        fail |= read32(p2++) ^ off;
+        fail |= read32(p2++) ^ off;
+        fail |= read32(p2++) ^ off;
+        fail |= read32(p2++) ^ off;
+        fail |= read32(p2++) ^ off;]]></codefragment>
+   </duplication>
+   <duplication lines="7" tokens="80">
+      <file line="32" path="W:\fx_trunk\NETB\code\config\defaults\config_output_defaults.c"/>
+      <file line="50" path="W:\fx_trunk\NETB\code\config\defaults\config_output_defaults.c"/>
+      <file line="59" path="W:\fx_trunk\NETB\code\config\defaults\config_output_defaults.c"/>
+      <file line="281"
+            path="W:\fx_trunk\NETB\code\config\defaults\config_output_defaults.c"/>
+      <codefragment><![CDATA[  0, IOC_ID_OUTPUT3, IOC_FT_FIREALARM_OUTPUT, 0x00, 
+  0, 0,
+  1,0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0, 
+  "")
+};
+
+const struct config_output_def_t default_mc_PCMLine =]]></codefragment>
+   </duplication>
+   <duplication lines="7" tokens="80">
+      <file line="41" path="W:\fx_trunk\NETB\code\config\defaults\config_output_defaults.c"/>
+      <file line="68" path="W:\fx_trunk\NETB\code\config\defaults\config_output_defaults.c"/>
+      <file line="77" path="W:\fx_trunk\NETB\code\config\defaults\config_output_defaults.c"/>
+      <file line="87" path="W:\fx_trunk\NETB\code\config\defaults\config_output_defaults.c"/>
+      <codefragment><![CDATA[  0, IOC_ID_MONOUT1, IOC_FT_FIRE_ALARM_DEVICE_OUTPUT, 0x01, 
+  0, 0,
+  1,0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0, 
+  "")
+};
+
+const struct config_output_def_t default_ioc_output1 =]]></codefragment>
+   </duplication>
+   <duplication lines="7" tokens="80">
+      <file line="181"
+            path="W:\fx_trunk\NETB\code\config\defaults\config_output_defaults.c"/>
+      <file line="187"
+            path="W:\fx_trunk\NETB\code\config\defaults\config_output_defaults.c"/>
+      <file line="193"
+            path="W:\fx_trunk\NETB\code\config\defaults\config_output_defaults.c"/>
+      <file line="199"
+            path="W:\fx_trunk\NETB\code\config\defaults\config_output_defaults.c"/>
+      <file line="205"
+            path="W:\fx_trunk\NETB\code\config\defaults\config_output_defaults.c"/>
+      <file line="211"
+            path="W:\fx_trunk\NETB\code\config\defaults\config_output_defaults.c"/>
+      <file line="217"
+            path="W:\fx_trunk\NETB\code\config\defaults\config_output_defaults.c"/>
+      <file line="223"
+            path="W:\fx_trunk\NETB\code\config\defaults\config_output_defaults.c"/>
+      <file line="229"
+            path="W:\fx_trunk\NETB\code\config\defaults\config_output_defaults.c"/>
+      <file line="235"
+            path="W:\fx_trunk\NETB\code\config\defaults\config_output_defaults.c"/>
+      <file line="241"
+            path="W:\fx_trunk\NETB\code\config\defaults\config_output_defaults.c"/>
+      <file line="247"
+            path="W:\fx_trunk\NETB\code\config\defaults\config_output_defaults.c"/>
+      <file line="253"
+            path="W:\fx_trunk\NETB\code\config\defaults\config_output_defaults.c"/>
+      <file line="259"
+            path="W:\fx_trunk\NETB\code\config\defaults\config_output_defaults.c"/>
+      <file line="265"
+            path="W:\fx_trunk\NETB\code\config\defaults\config_output_defaults.c"/>
+      <codefragment><![CDATA[  0, IOC_ID_OUTPUT1, IOC_FT_FIREALARM_OUTPUT, 0x00, 
+  0, 0,
+  1,0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0, 
+  "")
+  },
+  {CONFIG_IODEF_BLOCK_INIT(
+  0, IOC_ID_OUTPUT2, IOC_FT_FIREALARM_OUTPUT, 0x00, ]]></codefragment>
+   </duplication>
+   <duplication lines="17" tokens="80">
+      <file line="1914" path="W:\fx_trunk\NETB\code\node\nob_fire_send.c"/>
+      <file line="2226" path="W:\fx_trunk\NETB\code\node\nob_fire_send.c"/>
+      <codefragment><![CDATA[    em_re_sound_node_delay_fire_fad ( (struct public_node_object_t *)p_onob );
+
+  if (is_stand_alone())
+    return;
+
+  i=0;
+  while (p_onob->vnob[i])
+  {
+    cnt_of_seen_active_fires= vnob_get_cnt_of_seen_active_fires( p_onob->vnob[i] );
+    cnt_of_seen_delay_fires= vnob_get_cnt_of_seen_delay_fires( p_onob->vnob[i] );
+
+    if ( cnt_of_seen_active_fires || cnt_of_seen_delay_fires)
+    {
+      if (vnob_is_conn_normal_mode( p_onob->vnob[i]))
+      {
+        //send cmd on normal mode
+        p_nob_msg->out_queued_msg.length= ]]></codefragment>
+   </duplication>
+   <duplication lines="8" tokens="80">
+      <file line="234" path="W:\fx_trunk\NETB\MCNET2\code\target\real\memory.c"/>
+      <file line="242" path="W:\fx_trunk\NETB\MCNET2\code\target\real\memory.c"/>
+      <codefragment><![CDATA[      fail |= read32(p2++) ^ pat;
+      fail |= read32(p2++) ^ pat;
+      fail |= read32(p2++) ^ pat;
+      fail |= read32(p2++) ^ pat;
+      fail |= read32(p2++) ^ pat;
+      fail |= read32(p2++) ^ pat;
+      fail |= read32(p2++) ^ pat;
+      fail |= read32(p2++) ^ pat;]]></codefragment>
+   </duplication>
+   <duplication lines="8" tokens="80">
+      <file line="257" path="W:\fx_trunk\NETB\MCNET2\code\target\real\memory.c"/>
+      <file line="265" path="W:\fx_trunk\NETB\MCNET2\code\target\real\memory.c"/>
+      <codefragment><![CDATA[        fail |= read32(p2++) ^ on;
+        fail |= read32(p2++) ^ off;
+        fail |= read32(p2++) ^ on;
+        fail |= read32(p2++) ^ off;
+        fail |= read32(p2++) ^ on;
+        fail |= read32(p2++) ^ off;
+        fail |= read32(p2++) ^ on;
+        fail |= read32(p2++) ^ off;]]></codefragment>
+   </duplication>
+   <duplication lines="8" tokens="80">
+      <file line="278" path="W:\fx_trunk\NETB\MCNET2\code\target\real\memory.c"/>
+      <file line="286" path="W:\fx_trunk\NETB\MCNET2\code\target\real\memory.c"/>
+      <codefragment><![CDATA[        fail |= read32(p2++) ^ on;
+        fail |= read32(p2++) ^ on;
+        fail |= read32(p2++) ^ off;
+        fail |= read32(p2++) ^ off;
+        fail |= read32(p2++) ^ on;
+        fail |= read32(p2++) ^ on;
+        fail |= read32(p2++) ^ off;
+        fail |= read32(p2++) ^ off;]]></codefragment>
+   </duplication>
+   <duplication lines="8" tokens="80">
+      <file line="299" path="W:\fx_trunk\NETB\MCNET2\code\target\real\memory.c"/>
+      <file line="307" path="W:\fx_trunk\NETB\MCNET2\code\target\real\memory.c"/>
+      <codefragment><![CDATA[        fail |= read32(p2++) ^ on;
+        fail |= read32(p2++) ^ on;
+        fail |= read32(p2++) ^ on;
+        fail |= read32(p2++) ^ on;
+        fail |= read32(p2++) ^ off;
+        fail |= read32(p2++) ^ off;
+        fail |= read32(p2++) ^ off;
+        fail |= read32(p2++) ^ off;]]></codefragment>
+   </duplication>
+   <duplication lines="8" tokens="80">
+      <file line="320" path="W:\fx_trunk\NETB\MCNET2\code\target\real\memory.c"/>
+      <file line="343" path="W:\fx_trunk\NETB\MCNET2\code\target\real\memory.c"/>
+      <file line="351" path="W:\fx_trunk\NETB\MCNET2\code\target\real\memory.c"/>
+      <codefragment><![CDATA[        fail |= read32(p2++) ^ on;
+        fail |= read32(p2++) ^ on;
+        fail |= read32(p2++) ^ on;
+        fail |= read32(p2++) ^ on;
+        fail |= read32(p2++) ^ on;
+        fail |= read32(p2++) ^ on;
+        fail |= read32(p2++) ^ on;
+        fail |= read32(p2++) ^ on;]]></codefragment>
+   </duplication>
+   <duplication lines="8" tokens="80">
+      <file line="328" path="W:\fx_trunk\NETB\MCNET2\code\target\real\memory.c"/>
+      <file line="361" path="W:\fx_trunk\NETB\MCNET2\code\target\real\memory.c"/>
+      <file line="369" path="W:\fx_trunk\NETB\MCNET2\code\target\real\memory.c"/>
+      <codefragment><![CDATA[        fail |= read32(p2++) ^ off;
+        fail |= read32(p2++) ^ off;
+        fail |= read32(p2++) ^ off;
+        fail |= read32(p2++) ^ off;
+        fail |= read32(p2++) ^ off;
+        fail |= read32(p2++) ^ off;
+        fail |= read32(p2++) ^ off;
+        fail |= read32(p2++) ^ off;]]></codefragment>
+   </duplication>
+</pmd-cpd>
